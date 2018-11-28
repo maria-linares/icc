@@ -101,7 +101,7 @@ screen = pygame.display.set_mode(tamaño)
 dibujar(tabla)
 pygame.display.update()
 
-letra = pygame.font.SysFont("monospace",75)
+letra = pygame.font.SysFont("helvetica",75)
 
 while not game_over:
 
